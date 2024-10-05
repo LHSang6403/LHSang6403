@@ -6,6 +6,8 @@ Hi. I'm a Vietnamese software engineer.
 
 # 💻Tech Stack
 - Fullstack developemt
+- Nest.js
+- Next.js
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=LHSang6403&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LHSang6403&theme=radical&hide_border=true)<br/>
